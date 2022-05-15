@@ -1,0 +1,41 @@
+{
+    "Markers": [
+        {
+            "endDatetime": "2022-04-26T21:32:29.864757-05:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2022-04-26T21:32:29.861192-05:00",
+            "originalStartDatetime": "2022-04-26T21:32:00.950333-05:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2022-04-26T21:32:00.950197-05:00",
+            "type": "interval",
+            "uuid": "695b5230-ce9a-4c97-81df-53da91175367",
+            "value": 1,
+            "value_type": "number"
+        },
+        {
+            "endDatetime": "2022-04-26T21:33:03.581492-05:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2022-04-26T21:33:03.577869-05:00",
+            "originalStartDatetime": "2022-04-26T21:32:34.873164-05:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2022-04-26T21:32:34.869951-05:00",
+            "type": "interval",
+            "uuid": "8b785ff3-33c0-4281-b7c1-cee40092c6a4",
+            "value": 3,
+            "value_type": "number"
+        }
+    ],
+    "connectionType": "dongle",
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2022-05-15T02:10:24.923-05:00",
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "recordId": "fb9fff51-1a26-4316-978a-879fefa2057e",
+    "user": "emiliobazan"
+}
